@@ -3,7 +3,7 @@ A 3D model built with JOGL
 
 ####Third-Year college project to create a 3D model with camera and lighting controls :mortar_board: :three:  
 
-This is a project to build a 3D model of a cottage using 'JOGL' (Java-OpenGL, v2.0)
+This is a project to build a 3D model of a cottage using 'JOGL' (Java-OpenGL, v2.0)  
 The directories included in this repo:  
 * Project: The eclipse project directory
 * Jar: Contains a runnable jar file, built for the windows platform.  
