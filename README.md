@@ -18,5 +18,5 @@ The directories included in this repo:
 - The cottage door can be opened or shut
 
 <hr/>
-![alt app_image](https://github.com/daraghwalshe/Java-OpenGL/blob/master/Cottage3D.png)
-
+<img src="https://github.com/daraghwalshe/Java-OpenGL/blob/master/Cottage3D.png">
+<HR />
